@@ -1,1 +1,1 @@
-# parcial2corte
+# segundoParcial
